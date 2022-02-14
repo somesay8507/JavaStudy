@@ -1,4 +1,4 @@
-package variable;
+package section3;
 
 /* 변수
  * 프로그램에서 사용되는 자료를 저장하기 위한 공간

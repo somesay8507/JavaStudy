@@ -1,4 +1,4 @@
-package binary;
+package section2;
 
 public class BinaryTest {
 	

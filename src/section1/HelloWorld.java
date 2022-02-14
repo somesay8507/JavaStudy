@@ -1,4 +1,4 @@
-package first;
+package section1;
 
 public class HelloWorld {
 
