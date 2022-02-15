@@ -8,9 +8,9 @@ ex)package section1;
 		System.out.println("HelloWorld");
 	}
 }
- ◎정리: ; → 문장의 마침표 역활하는 세미클론
- 		  System.out.println  => 화면에 출력하라는 뜻
-         ㄴ> 소문자로 쓰면 에러 발생!! 
+   ◎정리: ; → 문장의 마침표 역활하는 세미클론
+ 		 System.out.println → 화면에 출력하라는 뜻
+            ㄴ>소문자로 쓰면 에러 발생!! 
 
  <변수>  
  * 프로그램에서 사용되는 자료를 저장하기 위한 공간
@@ -19,13 +19,12 @@ ex)package section1;
  * 사용되기 이전에 선언 되어야 한다
 
  <변수의 선언과 초기화>
-   ex) int level;      → level 이라는 이름의 변수 서언
-       int level = 0;  → level 변수 선언과 동시에 0 으로 초기화
+   ex) int level;  → level 이라는 이름의 변수 서언
+       int level = 0; → level 변수 선언과 동시에 0 으로 초기화
        int level;
        level = 10;
-       
        ◎정리 : int의 역할: level 변수의 데이터 타입을 저의
-               int의 의미: level은 정수이며 4바이트의 메모리 공간을 사용함.
+              int의 의미: level은 정수이며 4바이트의 메모리 공간을 사용함.
   
 
  <변수 선언 시 유의점>
