@@ -10,6 +10,6 @@ public class BinaryTest2 {
 		System.out.println(num1);
 		System.out.println(num2);
 		System.out.println(sum);
-		// 보수까지 알면 좋음...
+		// 보수까지 알면 좋다.
 	}
 }
