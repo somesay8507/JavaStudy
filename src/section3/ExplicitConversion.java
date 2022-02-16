@@ -24,7 +24,6 @@ public class ExplicitConversion {
 		//dNum(3.14) + fNum(0.9) = 4.23 값을 int 변환하면 4이기때문에 num2값은 4로 출력
 		System.out.println(num1);
 		System.out.println(num2);
-		
 	}
 
 }
